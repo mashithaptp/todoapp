@@ -1,4 +1,4 @@
-import { AppBar, Button, Toolbar, Typography } from '@mui/material'
+import { AppBar, Toolbar, Typography } from '@mui/material'
 import React from 'react'
 
 const Navbar = () => {
@@ -7,7 +7,7 @@ const Navbar = () => {
         <AppBar>
             <Toolbar>
                 
-                <Typography variant='h4' style={{color:'yellow',fontFamily:'cursive'}}>ToDo Applicaton</Typography>
+                <Typography variant='h4'  style={{color:'yellow',fontFamily:'cursive'}}>ToDo Applicaton</Typography>
                
             </Toolbar>
         </AppBar>
